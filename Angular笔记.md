@@ -64,7 +64,5 @@ grammar_cjkRuby: true
 			npm install -g @types/jquery --save-dev
 			npm insatll -g @types/bootstrap --save-dev
 
-			
-	
 ## 组件的概念
 ![Angular组件](./images/Angular组件_1.PNG)
