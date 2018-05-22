@@ -58,6 +58,10 @@ grammar_cjkRuby: true
 				"../node_modules/jquery/dist/jquery.js",
 				"../node_modules/bootstrap/dist/js/bootstrap.js"
 			 ]
+			 
+	 6.3 安装types
+
+			
 	
 ## 组件的概念
 ![Angular组件](./images/Angular组件_1.PNG)
