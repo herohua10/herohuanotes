@@ -42,7 +42,6 @@ grammar_cjkRuby: true
 	ng new auction
 	```
 	
-
 ## 组件的概念
 
-
+	![Angular组件](./images/Angular组件.PNG)
