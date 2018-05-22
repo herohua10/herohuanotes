@@ -44,6 +44,8 @@ grammar_cjkRuby: true
 
  6. 安装第三发插件
 
+
+
 	
 ## 组件的概念
 ![Angular组件](./images/Angular组件_1.PNG)
