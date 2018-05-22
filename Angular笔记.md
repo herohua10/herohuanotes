@@ -43,9 +43,21 @@ grammar_cjkRuby: true
 	```
 
  6. 安装第三发插件，如jQuery、bootstrap
-	
+	6.1 安装jquery、bootstrap
 
-
+			npm install -g jquery --save
+			npm install -g bootstrap --save
+			
+	6.2 在.angular-cli.json文件中引入jquery和bootstrap
+			
+			"styles": [
+				"styles.css",
+				"../node_modules/bootstrap/dist/css/bootstrap.css"
+			],
+			"scripts": [
+				"../node_modules/jquery/dist/jquery.js",
+				"../node_modules/bootstrap/dist/js/bootstrap.js"
+			 ]
 	
 ## 组件的概念
 ![Angular组件](./images/Angular组件_1.PNG)
