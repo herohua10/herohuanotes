@@ -43,5 +43,4 @@ grammar_cjkRuby: true
 	```
 	
 ## 组件的概念
-
-	![Angular组件](./images/Angular组件.PNG)
+![Angular组件](./images/Angular组件_1.PNG)
