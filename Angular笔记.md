@@ -27,10 +27,8 @@ grammar_cjkRuby: true
 	
  3. 安装angular命令行工具
 
-	
-
-``` shell
-npm install -g @angular/cli@指定版本
-#测试，出现版本信息及安装成功
-ng -v
-```
+	``` shell
+	npm install -g @angular/cli@指定版本
+	#测试，出现版本信息及安装成功
+	ng -v
+	```
