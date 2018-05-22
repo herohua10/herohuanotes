@@ -32,3 +32,5 @@ grammar_cjkRuby: true
 	#测试，出现版本信息及安装成功
 	ng -v
 	```
+
+ 4. 安装WebStorm
