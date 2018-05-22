@@ -41,4 +41,8 @@ grammar_cjkRuby: true
 	#auction为项目名
 	ng new auction
 	```
+	
+
+## 组件的概念
+
 
