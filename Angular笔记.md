@@ -34,3 +34,11 @@ grammar_cjkRuby: true
 	```
 
  4. 安装WebStorm
+
+## 创建项目
+
+	``` shell
+	#auction为项目名
+	ng new auction
+	```
+
