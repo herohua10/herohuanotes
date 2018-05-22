@@ -42,8 +42,8 @@ grammar_cjkRuby: true
 	ng new auction
 	```
 
- 6. 安装第三发插件
-
+ 6. 安装第三发插件，如jQuery、bootstrap
+	
 
 
 	
