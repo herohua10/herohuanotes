@@ -59,7 +59,10 @@ grammar_cjkRuby: true
 				"../node_modules/bootstrap/dist/js/bootstrap.js"
 			 ]
 			 
-	 6.3 安装types
+	 6.3 安装类型描述文件
+
+			npm install -g @types/jquery --save-dev
+			npm insatll -g @types/bootstrap --save-dev
 
 			
 	
