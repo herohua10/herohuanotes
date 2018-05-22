@@ -35,12 +35,15 @@ grammar_cjkRuby: true
 
  4. 安装WebStorm
 
-## 创建项目
+ 5. 创建项目
 
 	``` shell
 	#auction为项目名
 	ng new auction
 	```
+
+ 6. 安装第三发插件
+
 	
 ## 组件的概念
 ![Angular组件](./images/Angular组件_1.PNG)
