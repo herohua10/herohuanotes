@@ -11,7 +11,8 @@ grammar_cjkRuby: true
  1. 代码编辑工具：Sublime、WebStorm
  2. 断点调试工具：Chrome插件Batarang
  3. 版本管理工具：Git
-
+ 4. 包管理工具：npm（node package module）
+ 5. 代码合并和混淆工具：Grunt
 
 ## Angular程序架构
 ![Angular程序架构](./images/Angular程序架构.PNG)
