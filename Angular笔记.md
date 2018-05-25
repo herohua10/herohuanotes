@@ -13,6 +13,7 @@ grammar_cjkRuby: true
  3. 版本管理工具：Git
  4. 包管理工具：npm（node package module）
  5. 代码合并和混淆工具：Grunt
+ 6. 依赖管理工具：Bower
 
 ## Angular程序架构
 ![Angular程序架构](./images/Angular程序架构.PNG)
