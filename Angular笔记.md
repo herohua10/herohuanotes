@@ -17,6 +17,7 @@ grammar_cjkRuby: true
  7. 轻量级Server：http-server
  8. 单元测试Runner：Karma
  9. 单元测试工具：Jasmine
+ 10. 专门为AngularJS定制的测试工具：Protractor
 
 ## Angular程序架构
 ![Angular程序架构](./images/Angular程序架构.PNG)
