@@ -13,7 +13,7 @@ grammar_cjkRuby: true
  3. 版本管理工具：Git
  4. 包管理工具：npm（node package module）
  5. 代码合并和混淆工具：Grunt
- 6. 依赖管理工具：Bower
+ 6. 依赖管理工具：Bower（不建议使用，全面使用npm）
  7. 轻量级Server：http-server
  8. 单元测试Runner：Karma
  9. 单元测试工具：Jasmine
