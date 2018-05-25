@@ -9,7 +9,7 @@ grammar_cjkRuby: true
 ![enter description here](./images/开发、调试、测试工具.PNG)
 
  1. 代码编辑工具：Sublime、WebStorm
- 2. 
+ 2. 断点调试工具：Chrome插件Batarang
 ## Angular程序架构
 ![Angular程序架构](./images/Angular程序架构.PNG)
 
