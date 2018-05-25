@@ -6,9 +6,10 @@ grammar_cjkRuby: true
 
 
 ## 开发、调试、测试工具
+![enter description here](./images/开发、调试、测试工具.PNG)
 
-
-
+ 1. 代码编辑工具：Sublime、WebStorm
+ 2. 
 ## Angular程序架构
 ![Angular程序架构](./images/Angular程序架构.PNG)
 
