@@ -14,6 +14,7 @@ grammar_cjkRuby: true
  4. 包管理工具：npm（node package module）
  5. 代码合并和混淆工具：Grunt
  6. 依赖管理工具：Bower
+ 7. 轻量级Server：http-server
 
 ## Angular程序架构
 ![Angular程序架构](./images/Angular程序架构.PNG)
