@@ -55,6 +55,6 @@ e2e-tests/            --> 端对端测试
 
 	![Controller使用注意点](./images/Controller使用注意点.PNG)
 	
-2. 视图的复用
+2. 视图的复用，通过指令实现
 
 	![视图的复用](./images/视图的复用.PNG)
