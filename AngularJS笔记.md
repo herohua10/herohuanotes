@@ -49,5 +49,7 @@ e2e-tests/            --> 端对端测试
 ```
 
 
-## MVC-Controller的实现方式
+## MVC模式
 ![MVC模式](./images/MVC模式.PNG)
+1. Controller使用过程中的注意点
+	![Controller使用注意点](./images/Controller使用注意点.PNG)
