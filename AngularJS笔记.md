@@ -4,6 +4,19 @@ tags: AngularJS,前端框架
 grammar_cjkRuby: true
 ---
 
+## 开发、调试、测试工具
+![enter description here](./images/开发、调试、测试工具.PNG)
+
+ 1. 代码编辑工具：Sublime、WebStorm
+ 2. 断点调试工具：Chrome插件Batarang
+ 3. 版本管理工具：Git
+ 4. 包管理工具：npm（node package module）
+ 5. 代码合并和混淆工具：Grunt
+ 6. 依赖管理工具：Bower（不建议使用，全面使用npm）
+ 7. 轻量级Server：http-server
+ 8. 单元测试Runner：Karma
+ 9. 单元测试工具：Jasmine
+ 10. 专门为AngularJS定制的测试工具：Protractor
 
 ## AngularJS目录结构
 
