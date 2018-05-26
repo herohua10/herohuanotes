@@ -64,3 +64,7 @@ e2e-tests/            --> 端对端测试
 	3.1 $scope的作用
 
 		![神奇的$scope](./images/神奇的$scope.PNG)
+		
+	3.2 $scope的生命周期
+
+		
