@@ -47,3 +47,6 @@ e2e-tests/            --> 端对端测试
   protractor-conf.js    --> Protractor配置文件
   scenarios.js          --> Protractor端对端测试的运行文件
 ```
+
+
+## MVC-Controller的实现方式
