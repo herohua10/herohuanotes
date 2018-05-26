@@ -60,3 +60,7 @@ e2e-tests/            --> 端对端测试
 	![视图的复用](./images/视图的复用.PNG)
 	
 3. AngularJS的MVC是借助于$scope实现的。
+
+	3.1 $scope的作用
+
+		![神奇的$scope](./images/神奇的$scope.PNG)
