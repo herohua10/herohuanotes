@@ -58,3 +58,5 @@ e2e-tests/            --> 端对端测试
 2. 视图的复用，通过指令实现
 
 	![视图的复用](./images/视图的复用.PNG)
+	
+3. AngularJS的MVC是利用$scope实现的。
