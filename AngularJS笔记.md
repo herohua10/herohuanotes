@@ -78,3 +78,9 @@ e2e-tests/            --> 端对端测试
 5. 路由的基本原理
 
 	![/前端路由的基本原理](./images/前端路由的基本原理.PNG)
+	
+6. AngularJS指令
+
+	![enter description here](./images/AngularJS指令.PNG)
+	
+	![AngularJS指令2](./images/AngularJS指令2.PNG)
