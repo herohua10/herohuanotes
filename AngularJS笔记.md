@@ -69,3 +69,6 @@ e2e-tests/            --> 端对端测试
 	
 	![enter description here](./images/$scope的生命周期.PNG)
 		
+4. ng官方推荐的模块切分方式
+
+	
