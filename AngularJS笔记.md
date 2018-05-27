@@ -84,3 +84,7 @@ e2e-tests/            --> 端对端测试
 	![enter description here](./images/AngularJS指令.PNG)
 	
 	![AngularJS指令2](./images/AngularJS指令2.PNG)
+	
+	restrict匹配模式
+	
+	![匹配模式](./images/匹配模式.PNG)
