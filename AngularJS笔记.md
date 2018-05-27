@@ -88,3 +88,7 @@ e2e-tests/            --> 端对端测试
 	restrict匹配模式
 	
 	![匹配模式](./images/匹配模式.PNG)
+	
+	compile与link函数：
+	
+	![compile与link](./images/compile与link.PNG)
