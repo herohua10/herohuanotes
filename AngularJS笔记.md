@@ -99,4 +99,5 @@ e2e-tests/            --> 端对端测试
 
 # AngularJS权威教程
 
+## $scope对象的生命周期
 
